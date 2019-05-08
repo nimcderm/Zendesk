@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="20dp"
+    android:orientation="vertical"
+    android:padding="10dp"
+    >
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textAllCaps="true"
+        android:layout_marginBottom="20dp"
+        android:text="@string/textView"
+        android:textColor="#86AD33"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+    />
+
+
+    <TextView
+        android:id="@+id/editText4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAllCaps="true"
+        android:textSize="20dp"
+        android:layout_marginBottom="20dp"
+        android:text="@string/editText4"
+        android:textStyle="bold"
+     />
+    <TextView
+        android:id="@+id/editText5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/editText5"
+        android:textSize="18dp"
+        android:layout_marginBottom="20dp"
+        android:inputType="textMultiLine" />
+
+    <TextView
+        android:id="@+id/editText6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#E22112"
+        android:textSize="18dp"
+        android:text="@string/editText6"
+        android:gravity="center_horizontal"
+        android:layout_marginBottom="40dp"
+        android:inputType="date" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textAllCaps="true"
+        android:layout_marginBottom="20dp"
+        android:text="@string/textView2"
+        android:textColor="#86AD33"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+    />
+
+    <TextView
+        android:id="@+id/editText7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/editText7"
+        android:textSize="18dp"
+        android:layout_marginBottom="20dp"
+        android:inputType="textMultiLine" />
+
+    <Button
+        android:id="@+id/help_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center_horizontal"
+        android:background="#86AD33"
+        android:textAllCaps="true"
+        android:padding="5dp"
+        android:text="@string/help_button"
+        android:textColor="#fff"
+        android:layout_marginBottom="20dp"/>
+
+    <Button
+        android:id="@+id/chat_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/chat_button"
+        android:background="#86AD33"
+        android:textAllCaps="true"
+        android:padding="10dp"
+        android:textColor="#fff"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center_horizontal"
+        />
+
+,</LinearLayout>

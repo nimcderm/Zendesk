@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Motor Insurance</string>
+
+    <string name="textView">Welcome Jack!</string>
+    <string name="editText4">Motor Insurance Details</string>
+    <string name="editText5">Please note that your motor insurance will expire shortly.
+        \n\nYour next renewal is due before</string>
+    <string name="help_button">Click for further Assistance</string>
+    <string name="editText6">31/05/2019</string>
+    <string name="textView2">Need Help?</string>
+    <string name="editText7">Have a question? Search our most frequently asked questions to find your answer.
+        \n\nAlternatively, create a ticket and we will get back to you.</string>
+    <string name="chat_button">Chat with an agent</string>
+</resources>
